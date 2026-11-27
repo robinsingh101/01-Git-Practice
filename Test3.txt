@@ -1,8 +1,8 @@
-<<<<<<< Updated upstream
+
 Id = 1484
 =======
 ID =101
->>>>>>> Stashed changes
+
 
 This is test file3.
 My gender is Male.
